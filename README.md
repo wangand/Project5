@@ -67,5 +67,5 @@ newcoder.io/scrape/part-3/
 
 ## Notes
 
-Cache directory appears to require rwx access for all users to function correctly. I did try to change permissions to rw- and r-x for all users but sessions seem to work incorrectly unless the cache directory has rwx access for all users:wq
+Cache directory appears to require rwx access for all users to function correctly. I did try to change permissions to rw- and r-x for all users but sessions seem to work incorrectly unless the cache directory has rwx access for all users:
 . 
