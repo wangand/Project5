@@ -55,6 +55,14 @@ Installed SQLAlchemy
 
 Installed Flask-Session
 
+Added catalog project to /var/www/html via git
+
+Modified database_setup to use psql
+
+Added cache directory to store session data
+
+Cache directory appears to require rwx access to function correctly
+
 ## Third Party Resources
 
 newcoder.io/scrape/part-3/
